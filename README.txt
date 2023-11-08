@@ -1,28 +1,26 @@
-תרגיל 1 צורות 
+Exercise 1 - Geometric Shapes
 
-שמות המגישים:
-שיר ידיד 208327957
-אביתר דודיאן 207259755
+Contributors:
+Shir Yadid 
+Eviatar Davidiyan 
 
-התרגיל עוסק בבניית מחלקות לצורות הבאות: מלבן משולש שווי שוקיים מעויין וחלון 
-יש לבנות בנאים מתאימים לפי הוראות התרגיל. כמו כן עלינו לבנות פונקציות מחלקה מתאימות ולהחליט על שדות מתאימים
+This exercise revolves around creating classes for the following geometric shapes: Rectangle, Isosceles Triangle, Diamond, and Window. The task involves constructing suitable constructors and functions based on the exercise instructions. Additionally, we are required to define appropriate class fields.
 
-הקבצים שיצרנו :
-Rectangle. h הגדרת מחלקת המלבן.
-Rectangle. cpp מימוש הבנאים והפונקציות של המלבן.
-(IsoscelesTriangle.h הגדרת מחלקת המשלושים
-(IsoscelesTriangle.cpp מימוש הבנאים והפונקציות של המחלקה.
-Diamond.h  הגדרת מחלקת המעוין
-Diamond.cpp מימוש הפונקציות והבנאים של מעוין.
-Window.h הגדרת מחלקת החלון 
-Window .cpp מימוש הפונקציות והבנאים של המחלקה.
+Files we've created:
+- Rectangle.h: Definition of the Rectangle class.
+- Rectangle.cpp: Implementation of constructors and functions for the Rectangle class.
+- IsoscelesTriangle.h: Definition of the Isosceles Triangle class.
+- IsoscelesTriangle.cpp: Implementation of constructors and functions for the Isosceles Triangle class.
+- Diamond.h: Definition of the Diamond class.
+- Diamond.cpp: Implementation of functions and constructors for the Diamond class.
+- Window.h: Definition of the Window class.
+- Window.cpp: Implementation of functions and constructors for the Window class.
 
+Key Data Structures:
+- Classes for the four geometric shapes as per the exercise definition.
 
-מבני נתונים עיקריים :
- מחלקות של 4 צורות גיאומטריות לפי הגדרת התרגיל 
+Notable Algorithms:
 
-אלוגריתמים ראויים לציון :
+Known Issues:
 
-
-באגים ידועים :
-הערות :
+Notes:
